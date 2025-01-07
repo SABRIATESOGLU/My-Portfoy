@@ -23,7 +23,7 @@ class _StockPortfolioState extends State<StockPortfolioPage> {
   DateTime? selectedDate;
 
   final String finnhubApiKey =
-      'cttaen1r01qqhvb04dm0cttaen1r01qqhvb04dmg'; // API anahtarınızı buraya yazın.
+      'YOUR-API-KEY'; // API anahtarınızı buraya yazın.
 
   Future<void> fetchStockData() async {
     setState(() {
