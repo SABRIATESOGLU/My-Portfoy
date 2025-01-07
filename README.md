@@ -1,16 +1,3 @@
-# portfoy
+# My Portfoy
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Coin Portfolio Manager , kullanıcıların kripto para portföylerini yönetmelerine yardımcı olan Flutter tabanlı bir mobil uygulamadır. Uygulama, kullanıcıların coin yatırımlarını takip etmelerine, toplam portföy değerini hesaplamalarına ve işlemleri (alım/satım) sorunsuz bir şekilde güncellemelerine olanak tanır.
